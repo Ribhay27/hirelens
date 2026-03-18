@@ -2,7 +2,7 @@
 
 HireLens is a job market intelligence platform that analyzes job postings to identify hiring trends in data and technology roles. The system collects job listings, processes them through a data pipeline, extracts key skills from descriptions, and visualizes insights through an interactive dashboard.
 
-**Status:** Work in progress. Core pipeline and dashboard are currently under development.
+**Status:** Work in progress.
 
 ## Features
 
